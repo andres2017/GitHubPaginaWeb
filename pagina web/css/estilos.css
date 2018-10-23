@@ -134,3 +134,18 @@ h2{
 	background: #FFFFFF;
 	height: 50px;
 }
+
+
+<style>…</style>
+.fb_iframe_widget {
+    display: inline-block;
+    position: relative;
+}
+
+element.style {
+    border: none;
+    visibility: visible;
+    width: 300px;
+    height: 500px;
+}
+
