@@ -55,8 +55,8 @@ nav a:hover{
 }
 #slider{
 	margin: auto;
-	border: 10px solid #000000;
-	margin-top: 15px;
+	border: 5px solid #000000;
+	margin-top: 10px;
 }
 
 #contenido{
@@ -70,7 +70,7 @@ nav a:hover{
 	margin-bottom: 10px;
 }
 .articulos{
-	margin: 15px;
+	margin: 5px;
 }
 
 .articulos h2 {
