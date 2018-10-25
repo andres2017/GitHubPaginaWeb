@@ -55,8 +55,8 @@ nav a:hover{
 }
 #slider{
 	margin: auto;
-	border: 5px solid #000000;
-	margin-top: 5px;
+	border: 10px solid #000000;
+	margin-top: 15px;
 }
 
 #contenido{
@@ -70,14 +70,14 @@ nav a:hover{
 	margin-bottom: 10px;
 }
 .articulos{
-	margin: 10px;
+	margin: 15px;
 }
 
 .articulos h2 {
 	font-size: 40px;
 	padding: 10px;
 	color: #000000;
-	border-bottom: 10px solid #000000;
+	border-bottom: 5px solid #000000;
 	font-family: arial; 
 
 }
@@ -91,7 +91,8 @@ nav a:hover{
 	margin-top: 15px;
 	font-family: arial;
 
-}
+}	
+
 
 aside{
 	 float: right; 
