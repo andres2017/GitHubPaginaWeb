@@ -81,7 +81,16 @@ nav a:hover{
 	font-family: arial; 
 
 }
+.articulos img{
+	 float: left;
+	 margin: 10px;
+}
+.articulos p{
+	margin-bottom: 15px;
+	margin-top: 15px;
+	font-family: arial;
 
+}	
 .articulos img{
 	 float: left;
 	 margin: 10px;
