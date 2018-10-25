@@ -101,7 +101,10 @@ nav a:hover{
 	font-family: arial;
 
 }	
-
+#lectura1 p{
+	font-size: 200;
+	padding: 10;
+}
 
 aside{
 	 float: right; 
