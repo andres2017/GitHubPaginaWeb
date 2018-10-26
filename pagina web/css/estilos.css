@@ -65,9 +65,9 @@ nav a:hover{
 	background: #FFFFFF;
 	border-radius: 10px;
 	overflow:  hidden;
-	margin-top: 20px;
-	margin-right: 20px;
-	margin-bottom: 20px;
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
 }
 .articulos{
 	margin: 5px;
@@ -101,10 +101,7 @@ nav a:hover{
 	font-family: arial;
 
 }	
-#lectura1{
-	font-size: 200;
-	padding: 30;
-}
+
 
 aside{
 	 float: right; 
